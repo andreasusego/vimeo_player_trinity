@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   video_player: '>=0.10.0 <=2.1.1'
   http: ^0.12.1
-  chewie: ^0.12.2
+  chewie: ^1.0.0
 
 dev_dependencies:
   flutter_test:
